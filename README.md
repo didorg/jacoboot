@@ -1,4 +1,4 @@
-## Simple java code coverage example 
+## Java code coverage example 
 > Jacoco, Spring Boot, Maven and Junit 5, JaCoCo Jenkins Plugin 
 
 This project runs JUnit tests under code coverage and creates a coverage report (target/site/jacoco/index.html). 
