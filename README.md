@@ -3,7 +3,7 @@
 
 This project runs JUnit tests under code coverage and creates a coverage report (target/site/jacoco/index.html). 
 
-run in maven: 
+run: 
 > `mvn clean verify`
 
 Also this project excludes `MainApplication.class` to show how excludes/includes works (https://www.jacoco.org/jacoco/trunk/doc/report-mojo.html#excludes). 
